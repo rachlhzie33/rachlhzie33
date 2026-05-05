@@ -2,6 +2,9 @@
 
 I build data-driven systems, AI workflow tools, and SQL analytics case studies that solve real operational problems.
 
+🌐 Portfolio: https://rachel-l.com  
+→ Selected projects, case studies, and product builds
+
 My work sits at the intersection of:
 
 - SQL & analytics engineering
